@@ -1,0 +1,27 @@
+body {
+width: 60;
+text-align: center;
+margin: 0 auto;
+height: auto;
+margin-top: 12%;
+background-image: url(../img/farolillos.jpg);
+background-repeat: no-repeat;
+
+}
+
+img {
+width: 25%;
+}
+
+button {
+padding-top: 10px;
+padding-bottom: 10px;
+border: 2px solid green;
+background-color: aquamarine;
+border-radius: 5px;
+}
+
+h1 {
+color: aquamarine;
+}
+
